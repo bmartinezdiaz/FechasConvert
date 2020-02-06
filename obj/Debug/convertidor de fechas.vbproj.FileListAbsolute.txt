@@ -8,3 +8,14 @@ c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de f
 c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor de fechas.exe
 c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor de fechas.xml
 c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor de fechas.pdb
+D:\temp\RepositorioGIT\FechasConvert\bin\Debug\convertidor de fechas.exe.config
+D:\temp\RepositorioGIT\FechasConvert\bin\Debug\convertidor de fechas.exe
+D:\temp\RepositorioGIT\FechasConvert\bin\Debug\convertidor de fechas.pdb
+D:\temp\RepositorioGIT\FechasConvert\bin\Debug\convertidor de fechas.xml
+D:\temp\RepositorioGIT\FechasConvert\obj\Debug\convertidor de fechas.vbprojAssemblyReference.cache
+D:\temp\RepositorioGIT\FechasConvert\obj\Debug\convertidor_de_fechas.Form1.resources
+D:\temp\RepositorioGIT\FechasConvert\obj\Debug\convertidor_de_fechas.Resources.resources
+D:\temp\RepositorioGIT\FechasConvert\obj\Debug\convertidor de fechas.vbproj.GenerateResource.cache
+D:\temp\RepositorioGIT\FechasConvert\obj\Debug\convertidor de fechas.exe
+D:\temp\RepositorioGIT\FechasConvert\obj\Debug\convertidor de fechas.xml
+D:\temp\RepositorioGIT\FechasConvert\obj\Debug\convertidor de fechas.pdb
