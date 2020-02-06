@@ -1,0 +1,10 @@
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\bin\Debug\convertidor de fechas.exe.config
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\bin\Debug\convertidor de fechas.exe
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\bin\Debug\convertidor de fechas.pdb
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\bin\Debug\convertidor de fechas.xml
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor_de_fechas.Form1.resources
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor_de_fechas.Resources.resources
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor de fechas.vbproj.GenerateResource.Cache
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor de fechas.exe
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor de fechas.xml
+c:\users\bmart\onedrive\documentos2\visual studio 2013\Projects\convertidor de fechas\convertidor de fechas\obj\Debug\convertidor de fechas.pdb
